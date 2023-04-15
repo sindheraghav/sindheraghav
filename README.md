@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Raghavendra K Shindhe
 - 👀 I’m interested in learning new skills and upgrade myself to explore technical skill and implement it in real time project to get data driven decision making 
 - 🌱 I’m data analyst - freelancer and currently learning Data science and machine learning concepts indepth to develop my carrier
-- 💞️ I’m looking to collaborate on data analysis and data sicince field
+- 💞️ I’m looking to collaborate on data analysis and data science field
 - 📫 Contact No- +91 7483082922
 
 <!---
